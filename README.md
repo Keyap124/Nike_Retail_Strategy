@@ -7,6 +7,14 @@ This project analyzes Nike retail sales performance across multiple U.S. regions
 The analysis specifically focuses on Nike’s declining in-store sales performance in the Southern region and proposes marketing and promotional solutions supported by data visualizations.
 
 ---
+## Repository Contents
+
+| File Name                       | Description                                                                                                                                                                                                      |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Data Visualization - Nike.pdf` | Final business analytics presentation containing Tableau visualizations, regional sales analysis, business insights, and strategic recommendations for improving Nike’s in-store sales performance in the South. |
+| `nike_sales_dataset.csv`        | Raw dataset used for the analysis, containing Nike retail sales information across multiple regions, product categories, sales methods, and state-level performance metrics.                                     |
+| `README.md`                     | Project overview, methodology, business problem, visualizations, findings, and repository documentation.                                                                                                         |
+---
 
 ## Business Problem
 
